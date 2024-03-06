@@ -134,6 +134,10 @@ text-decoration: none;
     width: 20%;
 }
 
+.insane{
+    overflow: hidden;
+}
+
 .insane h2{
     color: #E9E9E9;
 }
@@ -278,6 +282,10 @@ text-align: center;
 
 .insane p{
     color: #E9E9E9;
+}
+
+.seo{
+    overflow: hidden;
 }
 
 .seo  h1{
@@ -508,6 +516,10 @@ background: transparent;
     padding: 10px 50px;
     background: transparent;
     }
+}
+
+.include{
+    overflow: hidden;
 }
 
 .include button{
@@ -867,6 +879,7 @@ align-items: center;
 
 .contact{
     background: #1E2029;
+    overflow: hidden;
 }
 
 .contact h2{
