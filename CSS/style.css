@@ -10,6 +10,7 @@ body{
 }
 
 header button{
+padding: 5px 10px;
 background: linear-gradient(90.76deg, #7CD67A 0.24%, #4DC99D 50.43%, #38B3BB 99.63%);
 }
 
@@ -258,26 +259,31 @@ background-clip: text;
 .seo .one button{
     background: linear-gradient(137deg, #87D972 10.74%, #42C6A6 54.44%, #32B4C6 100.84%), #FF8A5B;
     width: fit-content;
+    padding: 3px 10px;
 }
 
 .seo .two button{
     background: linear-gradient(138deg, #302F70 -21.61%, #D34375 34.83%, #F3A146 95.98%), #FF8A5B;
     width: fit-content;
+    padding: 3px 10px;
 }
 
 .seo .three button{
     background: linear-gradient(137deg, #87D972 10.74%, #42C6A6 54.44%, #32B4C6 100.84%), #FF8A5B;
     width: fit-content;
+    padding: 3px 10px;
 }
 
 .seo .four button{
     background: linear-gradient(138deg, #302F70 -21.61%, #D34375 34.83%, #F3A146 95.98%), #FF8A5B;
     width: fit-content;
+    padding: 3px 10px;
 }
 
 .seo button{
     background: linear-gradient(93.31deg, #122B6F -8.3%, #E64676 55.97%, #FCDE26 127.1%);
     border: none;
+    padding: 5px 10px;
 }
 
 .seo button a{
@@ -390,10 +396,10 @@ font-weight: 400;
 
 .include .col-lg-4 .col-box{
     background-color: #FFF;
-    border-top-right-radius: 40px;
+    border-top-right-radius: 50px;
     min-height: 414px;
     padding: 10px 20px;
-    border-bottom-left-radius: 40px;
+    border-bottom-left-radius: 50px;
 }
 
 .include h3{
