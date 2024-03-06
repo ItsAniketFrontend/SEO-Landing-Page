@@ -1,0 +1,609 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #12141D !important;
+}
+
+header button{
+background: linear-gradient(90.76deg, #7CD67A 0.24%, #4DC99D 50.43%, #38B3BB 99.63%);
+}
+
+header a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.banner h2{
+    font-family: Poppins;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 68px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #DFDFDF;
+}
+
+
+.banner p{
+    font-family: DM Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+color: #F0F0F3;
+}
+
+.banner a{
+    font-family: DM Sans;
+font-size: 27px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+color: #ffffff;
+text-decoration: none;
+}
+
+.banner button{
+    padding: 7px 15px;
+    background: linear-gradient(93.31deg, #122B6F -8.3%, #E64676 55.97%, #FCDE26 127.1%);
+}
+
+.banner .img-wrap{
+    border: 1px solid #F0F0F3;
+}
+
+.banner .bn-img{
+    position: relative;
+    left: -40px;
+}
+
+.form .row{
+    display: flex;
+    justify-content: center;
+}
+
+.form input{
+    width: 60%;
+}
+
+.form button{
+    width: 20%;
+}
+
+.insane h2{
+    color: #E9E9E9;
+}
+
+.insane .one{
+    font-family: DM Sans;
+font-size: 30px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: 0em;
+text-align: left;
+background: linear-gradient(90.76deg, #7CD67A 0.24%, #4DC99D 50.43%, #38B3BB 99.63%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.insane .number-wrap{
+    width: 65px;
+    height: 65px;
+    background: linear-gradient(136.96deg, #87D972 10.74%, #42C6A6 54.44%, #32B4C6 100.84%);
+    border-radius: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: DM Sans;
+font-size: 50px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+}
+
+.insane .red{
+    background: linear-gradient(137.82deg, #302F70 -21.61%, #D34375 34.83%, #F3A146 95.98%);
+}
+
+.insane .two{
+    font-family: DM Sans;
+font-size: 30px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: 0em;
+text-align: left;
+background: linear-gradient(91.32deg, #9E3C73 -20.64%, #DF6663 34.43%, #EC8C50 102.99%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.insane .three{
+    font-family: DM Sans;
+font-size: 30px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: 0em;
+text-align: left;
+background: linear-gradient(90.76deg, #7CD67A 0.24%, #4DC99D 50.43%, #38B3BB 99.63%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.insane span{
+    background: linear-gradient(92.85deg, #8ADA71 2.7%, #47CD9C 51.79%, #2EAED1 104.97%, #4CD6AE 104.98%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.insane .four{
+    font-family: DM Sans;
+font-size: 30px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: 0em;
+text-align: left;
+background:
+linear-gradient(90.76deg, #7CD67A 0.24%, #4DC99D 50.43%, #38B3BB 99.63%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.insane .five{
+    background: linear-gradient(91.32deg, #9E3C73 -20.64%, #DF6663 34.43%, #EC8C50 102.99%);
+    background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+    font-family: DM Sans;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: left;    
+}
+
+.insane .six{
+    font-family: DM Sans;
+font-size: 30px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: 0em;
+text-align: left;
+background: linear-gradient(90.76deg, #7CD67A 0.24%, #4DC99D 50.43%, #38B3BB 99.63%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+
+.insane button{
+    padding: 5px 20px;
+    background: 
+linear-gradient(91.32deg, #9E3C73 -20.64%, #DF6663 34.43%, #EC8C50 102.99%),
+linear-gradient(93.31deg, #122B6F -8.3%, #E64676 55.97%, #FCDE26 127.1%);
+}
+
+.insane button a{
+    color: rgba(255, 255, 255, 1);
+    font-family: DM Sans;
+font-size: 36px;
+font-weight: 500;
+text-decoration: none;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+.insane p{
+    color: #E9E9E9;
+}
+
+.seo  h1{
+    color: #FFFDFD;
+text-align: center;
+font-family: Poppins;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px; /* 100% */
+} 
+
+.seo p{
+    color: #EEE;
+font-family: "DM Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+
+.seo .one h2{
+    background: linear-gradient(90.76deg, #7CD67A 0.24%, #4DC99D 50.43%, #38B3BB 99.63%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 62px; /* 155% */
+}
+
+.seo .two h2{
+    font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 62px; /* 155% */
+background: linear-gradient(137.82deg, #302F70 -21.61%, #D34375 34.83%, #F3A146 95.98%);
+
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.seo .one button{
+    background: linear-gradient(137deg, #87D972 10.74%, #42C6A6 54.44%, #32B4C6 100.84%), #FF8A5B;
+    width: fit-content;
+}
+
+.seo .two button{
+    background: linear-gradient(138deg, #302F70 -21.61%, #D34375 34.83%, #F3A146 95.98%), #FF8A5B;
+    width: fit-content;
+}
+
+.seo .three button{
+    background: linear-gradient(137deg, #87D972 10.74%, #42C6A6 54.44%, #32B4C6 100.84%), #FF8A5B;
+    width: fit-content;
+}
+
+.seo .four button{
+    background: linear-gradient(138deg, #302F70 -21.61%, #D34375 34.83%, #F3A146 95.98%), #FF8A5B;
+    width: fit-content;
+}
+
+.seo button{
+    background: linear-gradient(93.31deg, #122B6F -8.3%, #E64676 55.97%, #FCDE26 127.1%);
+    border: none;
+}
+
+.seo button a{
+    color: #FFF;
+font-family: "DM Sans";
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 35px; /* 233.333% */
+    text-decoration: none;
+}
+
+.spots{
+    background: url(../Images/spots-available.png);
+    min-height: 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.spots .col-12{
+    min-height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.spots h2{
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 42px;
+font-style: normal;
+font-weight: 600;
+}
+
+.spots p{
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+
+.spots button a{
+    color: #FFF;
+text-align: center;
+font-family: "DM Sans";
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 31.182px; /* 124.729% */
+text-decoration: none;
+}
+
+.spots button{
+    border-radius: 33px;
+border: 1px solid #FFF;
+padding: 10px 70px;
+background: transparent;
+}
+
+.include button{
+    border: none;
+    padding: 8px 13px;
+    background: linear-gradient(137deg, #87D972 10.74%, #42C6A6 54.44%, #32B4C6 100.84%), #FFF;
+}
+
+.include button a{
+    text-decoration: none;
+    color: #FFF;
+text-align: center;
+font-family: "DM Sans";
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+}
+
+.include h2{
+    color: #FFFDFD;
+text-align: center;
+font-family: "DM Sans";
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px; /* 100% */
+}
+
+.include h2 span{
+    background: linear-gradient(137deg, #87D972 10.74%, #42C6A6 54.44%, #32B4C6 100.84%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: "DM Sans";
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+}
+
+.include h6{
+    color: #EEE;
+text-align: center;
+font-family: "DM Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+
+.include .col-lg-4 .col-box{
+    background-color: #FFF;
+    border-top-right-radius: 40px;
+    min-height: 414px;
+    padding: 10px 20px;
+    border-bottom-left-radius: 40px;
+}
+
+.include h3{
+    color: #000;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: 46px; /* 153.333% */
+}
+
+.include p{
+    color: #000248;
+font-family: "DM Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+}
+
+.top-foot{
+    background: #EAF8FF;
+    min-height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.top-foot h2{
+    color: #12141D;
+text-align: center;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 62px; /* 155% */
+}
+
+.top-foot button{
+    border: none;
+    display: flex;
+padding: 15.374px 30.505px 15.373px 30.747px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+    border-radius: 3.843px;
+background: linear-gradient(144deg, #302F70 -40.25%, #D34375 27.73%, #F3A146 101.39%), #FF5906;
+}
+
+.top-foot button a{
+    text-decoration: none;
+    color: #FFF;
+text-align: center;
+font-family: "DM Sans";
+font-size: 36.896px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.mid-foot{
+    min-height: 137px;
+    background: #1E2029;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.base-foot{
+    background: #EAF8FF;
+}
+
+.base-foot p{
+    padding: 10px 0px;
+    color: #000;
+font-family: "DM Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.did-you .left{
+    background: url(../Images/SVG.png);
+    background-position: center;
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.did-you .right h2{
+    color: #E9E9E9;
+font-family: "DM Sans";
+font-size: 22.404px;
+font-style: normal;
+font-weight: 400;
+line-height: 35.846px; /* 160% */
+}
+
+.did-you  h6{
+    background: linear-gradient(94deg, #BCDE5B -33.44%, #4FD68D 46.71%, #28A7DE 100.88%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Poppins;
+font-size: 28.005px;
+font-style: normal;
+font-weight: 700;
+line-height: 39.207px; /* 140% */
+}
+
+.did-you button{
+    background: rgba(0, 208, 156, 0.10);
+    padding: 8px 15px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.did-you .right .text-wrap{
+    background: #ffffff;
+}
+
+.did-you .form-box{
+    background: #FFF;
+height: 590px;
+width: 484px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.did-you .text-wrap h4{
+    color: #702FFF;
+text-align: center;
+font-family: "DM Sans";
+font-size: 24.644px;
+font-style: normal;
+font-weight: 700;
+line-height: 29.125px; /* 118.182% */
+}
+
+.did-you .text-wrap h5{
+    color: #757589;
+font-family: "DM Sans";
+font-size: 17.923px;
+font-style: normal;
+font-weight: 400;
+line-height: 26.885px; /* 150% */
+}
+
+
+.did-you .form-box .row{
+    display: flex;
+    justify-content: center;
+}
+
+.website .box{
+    border-radius: 10px;
+border: 2px solid #2F2E70;
+background: #1E2029;
+backdrop-filter: blur(94.8499984741211px);
+}
+
+.website h2{
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 46px; /* 143.75% */
+}
+
+.website input{
+    color: #1F2124;
+font-family: Poppins;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.website button{
+    border-radius: 0px 10px 10px 0px;
+background: linear-gradient(101deg, #332F70 -45.49%, #D34375 32.93%, #F29E47 97.72%);
+color: #FFF;
+text-align: right;
+font-family: Poppins;
+font-size: 22.4px;
+font-style: normal;
+font-weight: 500;
+line-height: 22.4px; /* 100% */
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.contact{
+    background: #1E2029;
+}
+
+.contact h2{
+    font-family: DM Sans;
+font-size: 50px;
+font-weight: 700;
+line-height: 62px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+}
