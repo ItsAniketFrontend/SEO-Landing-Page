@@ -141,6 +141,11 @@ text-decoration: none;
     overflow: hidden;
 }
 
+.insane hr{
+    border: 1px solid #ffffff;
+    margin-top: 30px;
+}
+
 .insane h2{
     color: #E9E9E9;
 }
