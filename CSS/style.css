@@ -359,6 +359,10 @@ font-weight: 400;
     text-decoration: none;
 }
 
+.seo hr{
+    border: 1px solid #FFFFFF;
+}
+
 @media (max-width:774px) {
     .seo .one h2{
         background: linear-gradient(90.76deg, #7CD67A 0.24%, #4DC99D 50.43%, #38B3BB 99.63%);
