@@ -71,10 +71,10 @@ text-decoration: none;
     border: 1px solid #F0F0F3;
 }
 
-.banner .bn-img{
+/* .banner .bn-img{
     position: relative;
     left: -40px;
-}
+} */
 
 @media (max-width:774px) {
     .banner h2{
