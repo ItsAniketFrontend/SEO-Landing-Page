@@ -32,6 +32,9 @@ header a{
     }
 }
 
+.banner{
+    overflow: hidden;
+}
 
 .banner h2{
     font-family: Poppins;
