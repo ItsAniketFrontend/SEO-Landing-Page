@@ -38,7 +38,16 @@ header a{
 
 .banner h2{
     font-family: Poppins;
-    font-size: 56px;
+    font-size: 34px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #DFDFDF;
+}
+
+.banner h6{
+    font-family: Poppins;
+    font-size: 18px;
     font-weight: 700;
     letter-spacing: 0em;
     text-align: left;
@@ -48,7 +57,7 @@ header a{
 
 .banner p{
     font-family: DM Sans;
-font-size: 20px;
+font-size: 16px;
 font-weight: 400;
 letter-spacing: 0em;
 text-align: left;
@@ -738,10 +747,10 @@ font-weight: 400;
     background-size: cover;
 }
 
-.did-you .right h2{
+.did-you .right p{
     color: #E9E9E9;
 font-family: "DM Sans";
-font-size: 22.404px;
+font-size: 20px;
 font-style: normal;
 font-weight: 400;
 }
